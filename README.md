@@ -7,8 +7,8 @@ This Python script uses the `lyricsgenius` and `musicbrainzngs` libraries to fin
 **User-friendly Output**: The script prints the results in a user-friendly format, making it easy to understand the output.
 
 **Installation of packages**:
-"~pip install lyricsgenius"
-"~pip install musicbrainzngs"
+pip install lyricsgenius
+pip install musicbrainzngs
 
 # How to use
 1. Clone the repository: gh repo clone TheRealNiko/MusicFinder
